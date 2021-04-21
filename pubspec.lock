@@ -8,13 +8,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.5.0"
-  avatar_glow:
-    dependency: "direct main"
-    description:
-      name: avatar_glow
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.2.0"
   boolean_selector:
     dependency: transitive
     description:
@@ -56,7 +49,7 @@ packages:
       name: cupertino_icons
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "0.1.2"
   fake_async:
     dependency: transitive
     description:
@@ -69,39 +62,23 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_bluetooth_serial:
+  flutter_localizations:
     dependency: "direct main"
-    description:
-      name: flutter_bluetooth_serial
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.2.2"
+    description: flutter
+    source: sdk
+    version: "0.0.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
     source: sdk
     version: "0.0.0"
-  highlight_text:
-    dependency: "direct main"
-    description:
-      name: highlight_text
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.7.2"
   intl:
     dependency: transitive
     description:
       name: intl
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.16.1"
-  json_annotation:
-    dependency: transitive
-    description:
-      name: json_annotation
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "3.1.0"
+    version: "0.17.0"
   matcher:
     dependency: transitive
     description:
@@ -123,13 +100,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.8.0"
-  pedantic:
-    dependency: transitive
-    description:
-      name: pedantic
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.9.2"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -142,13 +112,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.8.0"
-  speech_to_text:
-    dependency: "direct main"
-    description:
-      name: speech_to_text
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "2.7.0"
   stack_trace:
     dependency: transitive
     description:
@@ -170,20 +133,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.0"
-  syncfusion_flutter_core:
-    dependency: transitive
-    description:
-      name: syncfusion_flutter_core
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "18.3.50"
-  syncfusion_flutter_sliders:
-    dependency: "direct main"
-    description:
-      name: syncfusion_flutter_sliders
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "18.3.50-beta"
   term_glyph:
     dependency: transitive
     description:
@@ -214,4 +163,3 @@ packages:
     version: "2.1.0"
 sdks:
   dart: ">=2.12.0-0.0 <3.0.0"
-  flutter: ">=1.10.0"
